@@ -1,11 +1,10 @@
-***Tabu Search***
+***Genetic Algorithm***
 
-A Tabu Search Heuristic for the Vehicle Routing Problem
-Author(s): Michel Gendreau, Alain Hertz and Gilbert Laporte
-Source: Management Science, Vol. 40, No. 10 (Oct., 1994), pp. 1276-1290 Published by: INFORMS
-Stable URL: https://www.jstor.org/stable/2661622
+Prins, Christian. "A simple and effective evolutionary algorithm for the vehicle routing problem." 
+Computers & Operations Research 31.12 (2004): 1985-2002.
 
-New Insertion and Postoptimization Procedures for the Traveling Salesman Problem
-Author(s): Michel Gendreau, Alain Hertz and Gilbert Laporte
-Source: Operations Research, Vol. 40, No. 6 (Nov. - Dec., 1992), pp. 1086-1094 Published by: INFORMS
-Stable URL: https://www.jstor.org/stable/171722
+Clarke, Geoff, and John W. Wright. "Scheduling of vehicles from a central depot to a number of delivery points."
+Operations research 12.4 (1964): 568-581.
+
+Gillett, Billy E., and Leland R. Miller. "A heuristic algorithm for the vehicle-dispatch problem."
+Operations research 22.2 (1974): 340-349.
